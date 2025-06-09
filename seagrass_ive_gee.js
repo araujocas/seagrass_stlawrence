@@ -1,5 +1,5 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////
-// Example code for the retrieval of emerged areas and seagrass cover in the region of L'isle-Verte, in
+// Example code for the retrieval of emerged areas and seagrass cover in the region of L'Isle-Verte, in
 // the Estuary and Gulf of St. Lawrence (Québec, Canada). Refer to article: "Massive increase of
 // intertidal seagrass coverage in a large estuarine system revealed by four decades of Landsat imagery".
 // Available at: https://doi.org/10.1016/j.rsase.2025.101623
