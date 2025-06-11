@@ -11,3 +11,5 @@ DISCLAIMER: This dataset was generated using Landsat imagery with a spatial reso
 ## Usage Notice
 The data and code in this repository is intended for academic and non-commercial use only.  
 If you access this repository outside of the DOI-published version on Zenodo, please refer to the official release. By using this code, you agree to comply with the usage terms specified in the Zenodo publication.
+
+Araújo, C. (2025). Dataset and software for "Massive increase of intertidal seagrass coverage in a large estuarine system revealed by four decades of Landsat imagery", by Araújo et al. (2025). doi: https://doi.org/10.1016/j.rsase.2025.101623 (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15643392
